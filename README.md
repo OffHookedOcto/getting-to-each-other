@@ -15,14 +15,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) f
 Add English language and UTF-8 tags by modifying index.html so that it looks like this:
 ```
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta charset="utf-8">
-	<title>Page Title</title>
+<title>JuanRodriguez</title>
 </head>
 <body>
-	<h1>This is a Heading</h1>
-	<p>This is a paragraph.</p>
+
+<h1>My name is Juan Rodriguez</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
 ```

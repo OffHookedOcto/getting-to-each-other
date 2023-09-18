@@ -22,7 +22,7 @@ Add English language and UTF-8 tags by modifying index.html so that it looks lik
 <body>
 
 <h1>My name is Juan Rodriguez</h1>
-<p>This is a paragraph.</p>
+<p>I like to play video games</p>
 
 </body>
 </html>

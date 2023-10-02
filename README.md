@@ -1,7 +1,7 @@
 # Getting To Know Each Other
 
 ## Author
-Juan Rodriguez
+Juan Rodriguez(Email:juanprodriguez@lewisu.edu)
 
 ## Credits
 Eric Pogue

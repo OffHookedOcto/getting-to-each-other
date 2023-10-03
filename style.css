@@ -1,9 +1,10 @@
 body {
     font-family: "Helvetica", Sans-Serif;
     background-color: greenyellow;
-    h1 {
-      color: blue;
-    }
+   h1 {
+  background-color: black;
+  color: white;
+}
     h2 {
       color: blue;
     }

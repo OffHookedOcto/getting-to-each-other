@@ -1,10 +1,10 @@
 body {
-    font-family: "Helvetica", Sans-Serif;
-    background-color: greenyellow;
-  p { 
-   color: #000080; 
-  } 
-  a { 
-   color: #00FFFF; 
-  } 
-  }
+  font-family: "Helvetica", Sans-Serif;
+  background-color: greenyellow;
+p { 
+ color: #000080; 
+} 
+a { 
+ color: #00FFFF; 
+} 
+}
